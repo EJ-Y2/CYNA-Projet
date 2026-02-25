@@ -4,7 +4,7 @@ Projet fil rouge réalisé dans le cadre de la formation CPI.
 
 ## 🎯 Objectif
 Concevoir et démontrer une infrastructure sécurisée basée sur :
-- Active Directory
+- Active Directory et Entra ID
 - Sécurité réseau (pfSense)
 - Services Linux
 - Automatisation
