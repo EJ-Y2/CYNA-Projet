@@ -6,12 +6,12 @@ Projet fil rouge réalisé dans le cadre de la formation CPI.
 Concevoir et démontrer une infrastructure sécurisée basée sur :
 - Active Directory et Entra ID
 - Sécurité réseau (pfSense)
-- Services Linux
+- Services Linux via docker
 - Automatisation
 - Maquette virtualisée sous VMware
 
 ## 👥 Équipe
-- Dylan – Lead & intégration technique
+- Dylan – Lead & intégration technique + ansible et docker
 - Ahmet – Active Directory
 - Adrien – Réseau & sécurité
 - Khadiatou – Documentation & qualité
@@ -21,7 +21,7 @@ Maquette locale sous VMware servant à valider une architecture cible orientée 
 
 ## 📁 Organisation du dépôt
 - `reseau/` : firewall, plan IP, règles
-- `Linux/` : serveurs Linux et services
+- `Linux/` : serveurs Linux et services dans docker
 - `ansible/` : automatisation
 - `schemas/` : schémas d’architecture
 - `docs/` : documentation projet
